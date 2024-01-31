@@ -9,5 +9,6 @@
   <packaging>pom</packaging>
   <modules>
     <module>builder</module>
+    <module>singleton</module>
   </modules>
 </project>
