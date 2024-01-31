@@ -1,13 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>co.edu.uniquindio.patrones</groupId>
-  <artifactId>patrones</artifactId>
+  <groupId>co.edu.uniquindio.patrones.creacionales</groupId>
+  <artifactId>builder</artifactId>
   <version>1.0</version>
-  <name>Archetype - patrones</name>
+  <name>builder</name>
   <url>http://maven.apache.org</url>
   <packaging>pom</packaging>
   <modules>
-    <module>creacionales</module>
+    <module>ejemplos/ejercicio1</module>
+    <module>ejemplos/ejercicio2</module>
   </modules>
 </project>
