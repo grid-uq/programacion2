@@ -1,10 +1,12 @@
-import app.MenuPrincipal;
+package app;
+
+import builder.MenuPrincipal;
 import builder.Menu;
 import builder.MenuBuilder;
 import menus.MenuCarnivoroBuilder;
 import menus.MenuVeganoBuilder;
 
-public class Main {
+public class EjemploCreacionMenu {
 
     public static void main(String[] args) {
         MenuBuilder menuVeganoBuilder = new MenuVeganoBuilder();

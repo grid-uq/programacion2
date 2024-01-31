@@ -1,0 +1,5 @@
+## 🍱 Restaurante
+
+Se requiere un sistema para un restaurante donde los clientes pueden personalizar sus propios menús en línea. Cada menú puede contener una variedad de elementos, como entradas, platos principales, acompañamientos y postres. Además, los clientes pueden tener preferencias específicas, como restricciones dietéticas, preferencias de ingredientes y opciones de presentación.
+
+Por ejemplo, un cliente puede querer un menú vegetariano con un plato principal específico, sin gluten, y con una presentación especial para una ocasión especial. Otro cliente podría preferir un menú con opciones de carne, acompañamientos específicos y la opción de incluir postres sin azúcar. La diversidad de configuraciones posibles hace que la construcción de menús sea un desafío, especialmente cuando los elementos y preferencias varían de un cliente a otro.

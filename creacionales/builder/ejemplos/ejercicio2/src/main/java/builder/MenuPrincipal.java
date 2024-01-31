@@ -1,4 +1,4 @@
-package app;
+package builder;
 
 import builder.Menu;
 import builder.MenuBuilder;

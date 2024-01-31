@@ -1,3 +1,8 @@
+package app;
+
+import modelo.ReservaDeViaje;
+import modelo.TipoTransporte;
+
 import java.time.LocalDateTime;
 import java.util.List;
 
